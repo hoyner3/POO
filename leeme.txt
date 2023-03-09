@@ -1,0 +1,3 @@
+el diagrama esta hecho en star uml
+
+y las en visual studio code
